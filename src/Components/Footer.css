@@ -1,0 +1,13 @@
+.foot-container{
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.76);
+    color: rgba(255, 255, 255, 0.808);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+    position: fixed;
+    bottom: 2px;
+    width: 100%;
+    padding: 1px;
+}

@@ -1,0 +1,29 @@
+.about-container {
+  width:90% ;
+  height: auto;
+  margin:auto ;
+  padding: 2rem;
+  text-align: center;
+  line-height: 1.6;
+  background-color: rgba(240, 248, 255, 0.886);
+  border-radius: 2rem;
+  box-shadow: 0 0 0.5rem 0;
+ 
+}
+
+.about-text {
+  margin-bottom: 1.5rem;
+  color: brown;
+  font-weight: bolder;
+  font-size: 2rem;
+}
+
+.about-container p {
+  margin-bottom: 1rem;
+}
+.logo-up{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 3rem;
+}

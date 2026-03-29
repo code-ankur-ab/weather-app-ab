@@ -1,0 +1,14 @@
+.home-container{
+    /* background-image: url("src/assets/backgroundweather.jpg"); */
+    background-color: #206aaad0;
+    height: 100;
+    padding-bottom: 5rem;
+   
+    
+    
+}
+.home-nav{
+    position: sticky;
+    top: 0px;
+}
+

@@ -1,0 +1,17 @@
+.nav-box{
+    height: 60px;
+    border-radius: 1rem;
+    background-color: rgba(255, 255, 255, 0.901);
+    padding: 1rem;
+    align-items: center;
+    display: flex;
+    gap: 2rem;
+    box-shadow: 0 0 1rem 0;
+    /* z-index: 1000; */
+
+   
+}
+#goabout{
+    text-decoration: none;
+    color: rgb(4, 6, 49);
+}

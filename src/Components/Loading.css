@@ -1,0 +1,25 @@
+.loadingWheel{
+    height: 70px;
+    width: 70px;
+    border: 10px solid #b74f4f;
+    border-top: 10px solid transparent;
+    border-radius: 50%;
+    animation: spinner 1s linear infinite;
+
+}
+
+@keyframes spinner{
+    20%{ border-color : red;
+        border-top: 10px solid transparent; }
+    40%{ border-color: green;
+        border-top: 10px solid transparent;}
+    60%{ border-color: blue ;
+        border-top: 10px solid transparent;}
+    80%{ border-color: gray;
+        border-top: 10px solid transparent;}
+    100%{ border-color: yellow;
+        border-top: 10px solid transparent;
+        rotate: 360deg;
+                                 }
+}
+
