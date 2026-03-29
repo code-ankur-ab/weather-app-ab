@@ -1,7 +1,7 @@
 import React from 'react'
 import './Landing.css'
 import { useNavigate } from 'react-router-dom'
-import Ankur from '/src/assets/Ankur.svg'
+
 
 
 
